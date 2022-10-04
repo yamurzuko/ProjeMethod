@@ -1,0 +1,15 @@
+/Users/ugurcanyagmur/Projects/ProjeMethod/obj/Debug/net6.0/ProjeMethod.csproj.AssemblyReference.cache
+/Users/ugurcanyagmur/Projects/ProjeMethod/obj/Debug/net6.0/ProjeMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurcanyagmur/Projects/ProjeMethod/obj/Debug/net6.0/ProjeMethod.AssemblyInfoInputs.cache
+/Users/ugurcanyagmur/Projects/ProjeMethod/obj/Debug/net6.0/ProjeMethod.AssemblyInfo.cs
+/Users/ugurcanyagmur/Projects/ProjeMethod/obj/Debug/net6.0/ProjeMethod.csproj.CoreCompileInputs.cache
+/Users/ugurcanyagmur/Projects/ProjeMethod/bin/Debug/net6.0/ProjeMethod
+/Users/ugurcanyagmur/Projects/ProjeMethod/bin/Debug/net6.0/ProjeMethod.deps.json
+/Users/ugurcanyagmur/Projects/ProjeMethod/bin/Debug/net6.0/ProjeMethod.runtimeconfig.json
+/Users/ugurcanyagmur/Projects/ProjeMethod/bin/Debug/net6.0/ProjeMethod.dll
+/Users/ugurcanyagmur/Projects/ProjeMethod/bin/Debug/net6.0/ProjeMethod.pdb
+/Users/ugurcanyagmur/Projects/ProjeMethod/obj/Debug/net6.0/ProjeMethod.dll
+/Users/ugurcanyagmur/Projects/ProjeMethod/obj/Debug/net6.0/refint/ProjeMethod.dll
+/Users/ugurcanyagmur/Projects/ProjeMethod/obj/Debug/net6.0/ProjeMethod.pdb
+/Users/ugurcanyagmur/Projects/ProjeMethod/obj/Debug/net6.0/ProjeMethod.genruntimeconfig.cache
+/Users/ugurcanyagmur/Projects/ProjeMethod/obj/Debug/net6.0/ref/ProjeMethod.dll
